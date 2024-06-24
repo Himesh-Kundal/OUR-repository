@@ -1,2 +1,2 @@
 # OUR-repository
-Violating every geneva convention with my comrades. Приветствуйте Красное Знамя.
+Resources for everything you might need to survive 😉.
