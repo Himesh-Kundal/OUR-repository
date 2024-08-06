@@ -1,4 +1,6 @@
 # OUR-repository
+Violating every geneva convention with my comrades. Приветствуйте Красное Знамя.
+
 Resources for everything you might need to survive 😉.
 
 ## Table of Contents
@@ -8,4 +10,3 @@ Resources for everything you might need to survive 😉.
 - [Development](./Development/README.md)
 - [DataScience](./Data-Science/README.md)
 - [Entertainment](./Entertainment/README.md)
-
